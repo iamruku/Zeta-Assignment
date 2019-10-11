@@ -39,6 +39,7 @@
 
 .cls-header-filter-row {
     margin-top: 0.5rem;
+    width: 100%;
 }
 
 .cls-header-filter-input {
@@ -48,6 +49,7 @@
     border: 1px solid rgba(0, 0, 0, 0.1);
     box-shadow: none;
     box-sizing: border-box;
+    width: 100%;
 }
 
 .cls-rows-container {
